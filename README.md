@@ -1,4 +1,4 @@
-# Google Translate by PyQt5
+# Google Translate by PyQt5 [FA/EN]
 
 This project has been written by python 3.6
 
